@@ -68,14 +68,21 @@ up by Slashdot, Scripting News, and other news sites.</dd>
 <a href="http://npirspublic.ceris.purdue.edu/alstar.aspx">ALSTAR
 (Accepted Labels State Tracking and Repository)</a>.</dd>
 <dd>Created single-label stamping for pesticide PDF labels running
-under Linux. This included verifying that the PDF is not
+under Linux so labels can be stamped when they come in (realtime
+stamping). This included verifying that the PDF is not
 password-protected, that the PDF contains searchable text
-(not an image-only PDF), that the PDF does not contain fillable forms,
+(is not an image-only PDF), that the PDF does not contain fillable forms,
 and that the PDF is not an Acrobat Reader Extended PDF - all of which
 prevent applying a stamp to that PDF.</dd>
 <dd>Created an (internal) full parser of PDFs using the Marpa::R2
 parser module (Marpa can parse any language that can be described
-in BNF notation).</dd>
+in BNF notation). Note that PDF is context-free - except when it isn't,
+so extra steps have to be taken to properly parse PDFs.  Next step is
+handling compressed streams (which are currently lexed but otherwise
+ignored).</dd>
+<dd>Created the (internal) Perl module PerlIO::eol::Preserve, which
+reads lines containing a mix of CR, LF, and CRLF for end of line
+(EOL) markers as found in PDFs while preserving those EOLs.</dd>
 </dl>
 <h2>10/2017-12/2017: Panamplify, Senior Full-Stack Developer</h2>
 <dl>
@@ -1225,6 +1232,6 @@ am the DNRC (Dogbert's New Ruling Class) Prime Minister of the Internet</a>
 (via the Internet Archive)</li>
 </ul>
 <hr>
-<p><span style="font-style:italic">Last updated May 15, 2019.</span></p>
+<p><span style="font-style:italic">Last updated May 17, 2019.</span></p>
 </body>
 </html>
