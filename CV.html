@@ -63,14 +63,26 @@ up by Slashdot, Scripting News, and other news sites.</dd>
 
 <h2>4/2018-present: Purdue University CERIS, Programmer/Analyst</h2>
 <dl>
-<dt></dt>
+<dt>ALSTAR</dt>
+<dd>Rewrote batch stamping of pesticide lable PDFs process for
+<a href="http://npirspublic.ceris.purdue.edu/alstar.aspx">ALSTAR
+(Accepted Labels State Tracking and Repository)</a>.</dd>
+<dd>Created single-label stamping for pesticide PDF labels running
+under Linux. This included verifying that the PDF is not
+password-protected, that the PDF contains searchable text
+(not an image-only PDF), that the PDF does not contain fillable forms,
+and that the PDF is not an Acrobat Reader Extended PDF - all of which
+prevent applying a stamp to that PDF.</dd>
+<dd>Created an (internal) full parser of PDFs using the Marpa::R2
+parser module (Marpa can parse any language that can be described
+in BNF notation).</dd>
 </dl>
 <h2>10/2017-12/2017: Panamplify, Senior Full-Stack Developer</h2>
 <dl>
 <dt>Social Media Automatic Marketing Report Generation</dt>
 <dd>Started diagnosis of Java + Scala + Akka + Play2 + Rails AI-based report
 generation system caching problem with YouTube Analytics.</dd>
-<dt>Nagios</d>
+<dt>Nagios</dt>
 <dd>Installed and
 configured Nagios and CloudWatch for all company servers including local free +
 cached memory usage along with writing a custom Nagios plugin validating server
