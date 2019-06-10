@@ -1,0 +1,26 @@
+http://use.perl.org/use.perl.org/_Mark+Leighton+Fisher/journal/40449.html
+
+Friday July 16, 2010
+11:09 AM
+Stupid Lucene Tricks: Hierarchies
+ [ #40449 ]
+You can search on hierarchies in Lucene if your hierarchy can be represented as a path enumeration (a Dewey-Decimal-like style of encoding a path, like "001.014.003" for the 3rd grandchild of the 14th child of the 1st branch).
+
+For example, a search phrase like:
+
+    hierarchy:001
+
+would return only the direct children of the 1st branch, while:
+
+    hierarchy:001*
+
+would return all descendents of the 1st branch.
+
+To get only the children of a particular node, you specify only that node, like:
+    hierarchy:001.014.003
+
+To get all of the descendents you specify everything that starts with that node:
+    hierarchy:001.014.003*
+
+To get only the descendents after the children (grandchildren, etc.), you specify:
+    hierarchy:001.014.003.*

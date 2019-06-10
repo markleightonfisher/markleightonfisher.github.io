@@ -1,0 +1,82 @@
+<list>
+  <item>
+    <displayText>gem install jekyll bundler</displayText>
+    <shortText>gem install jekyll bundler</shortText>
+  </item>
+  <item>
+    <displayText>mysql-server-5.7</displayText>
+    <shortText>mysql-server-5.7</shortText>
+  </item>
+  <item>
+    <displayText>sudo apt-get remove --purge mysql-server mysql-client mysql-common -y</displayText>
+    <shortText>sudo apt-get remove --purge mysql-server mysql-client mysql-common -y</shortText>
+  </item>
+  <item>
+    <displayText>journalctl -xe</displayText>
+    <shortText>journalctl -xe</shortText>
+  </item>
+  <item>
+    <displayText>systemctl status mysql.service</displayText>
+    <shortText>systemctl status mysql.service</shortText>
+  </item>
+  <item>
+    <displayText>/home/mark/.rvm/log/1558693427_ruby-2.6.3/package_install_libgdbm-dev_libncurses5-dev_libgmp-dev.log</displayText>
+    <shortText>/home/mark/.rvm/log/1558693427_ruby-2.6.3/package_install_libgdbm-dev_libncurses5-dev_libgmp-dev.log</shortText>
+  </item>
+  <item>
+    <displayText>source /home/mark/.rvm/scripts/rvm</displayText>
+    <shortText>source /home/mark/.rvm/scripts/rvm</shortText>
+  </item>
+  <item>
+    <displayText>curl -sSL https://rvm.io/pkuczynski.asc | gpg2 --import -</displayText>
+    <shortText>curl -sSL https://rvm.io/pkuczynski.asc | gpg2 --import -</shortText>
+  </item>
+  <item>
+    <displayText>curl -sSL https://rvm.io/mpapis.asc | gpg2 --import -</displayText>
+    <shortText>curl -sSL https://rvm.io/mpapis.asc | gpg2 --import -</shortText>
+  </item>
+  <item>
+    <displayText>gpg2 --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB</displayText>
+    <shortText>gpg2 --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB</shortText>
+  </item>
+  <item>
+    <displayText>curl -sSL https://get.rvm.io | bash -s stable</displayText>
+    <shortText>curl -sSL https://get.rvm.io | bash -s stable</shortText>
+  </item>
+  <item>
+    <displayText>https://github.com/jekyll/jekyll.git</displayText>
+    <shortText>https://github.com/jekyll/jekyll.git</shortText>
+  </item>
+  <item>
+    <displayText>http://blogs.perl.org/users/mark_leighton_fisher/2019/05/stupid-lucene-tricks-hierarchies.html</displayText>
+    <shortText>http://blogs.perl.org/users/mark_leighton_fisher/2019/05/stupid-lucene-tricks-hierarchies.html</shortText>
+  </item>
+  <item>
+    <displayText>Stupid Lucene Tricks: Storing Non-Documents</displayText>
+    <shortText>Stupid Lucene Tricks: Storing Non-Documents</shortText>
+  </item>
+  <item>
+    <displayText>http://blogs.perl.org/users/mark_leighton_fisher/2014/02/stupid-lucene-tricks-storing-non-documents.html</displayText>
+    <shortText>http://blogs.perl.org/users/mark_leighton_fisher/2014/02/stupid-lucene-tricks-storing-non-documents.html</shortText>
+  </item>
+  <item>
+    <displayText>Stupid Lucene Tricks: Full-Text Search Without the Full Text</displayText>
+    <shortText>Stupid Lucene Tricks: Full-Text Search Without the Full Text</shortText>
+  </item>
+  <item>
+    <displayText>http://blogs.perl.org/users/mark_leighton_fisher/2018/03/stupid-lucene-trick-full-text-search-without-the-full-text.html</displayText>
+    <shortText>http://blogs.perl.org/users/mark_leighton_fisher/2018/03/stupid-lucene-trick-full-text-search-without-the-full-text.html</shortText>
+  </item>
+  <item>
+    <displayText>Stupid Lucene Tricks: Exact Match, Starts With, Ends With</displayText>
+    <shortText>Stupid Lucene Tricks: Exact Match, Starts With, Ends With</shortText>
+  </item>
+  <item>
+    <displayText>http://blogs.perl.org/users/mark_leighton_fisher/2012/01/stupid-lucene-tricks-exact-match-starts-with-ends-with.html</displayText>
+    <shortText>http://blogs.perl.org/users/mark_leighton_fisher/2012/01/stupid-lucene-tricks-exact-match-starts-with-ends-with.html</shortText>
+  </item>
+  <item>
+    <displayText>http://use.perl.org/use.perl.org/_Mark+Leighton+Fisher/journal/40449.html)</displayText>
+    <shortText>http://use.perl.org/use.perl.org/_Mark+Leighton+Fisher/journal/40449.html)</shortText>
+  </item>
+</list>
