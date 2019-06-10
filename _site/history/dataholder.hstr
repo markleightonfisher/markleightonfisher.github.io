@@ -1,5 +1,13 @@
 <list>
   <item>
+    <displayText>http://blogs.perl.org/users/mark_leighton_fisher/2012/01/stupid-lucene-tricks-exact-match-starts-with-ends-with.html</displayText>
+    <shortText>http://blogs.perl.org/users/mark_leighton_fisher/2012/01/stupid-lucene-tricks-exact-match-starts-with-ends-with.html</shortText>
+  </item>
+  <item>
+    <displayText>Stupid Lucene Tricks: Exact Match, Starts With, Ends With</displayText>
+    <shortText>Stupid Lucene Tricks: Exact Match, Starts With, Ends With</shortText>
+  </item>
+  <item>
     <displayText>gem install jekyll bundler</displayText>
     <shortText>gem install jekyll bundler</shortText>
   </item>
@@ -66,14 +74,6 @@
   <item>
     <displayText>http://blogs.perl.org/users/mark_leighton_fisher/2018/03/stupid-lucene-trick-full-text-search-without-the-full-text.html</displayText>
     <shortText>http://blogs.perl.org/users/mark_leighton_fisher/2018/03/stupid-lucene-trick-full-text-search-without-the-full-text.html</shortText>
-  </item>
-  <item>
-    <displayText>Stupid Lucene Tricks: Exact Match, Starts With, Ends With</displayText>
-    <shortText>Stupid Lucene Tricks: Exact Match, Starts With, Ends With</shortText>
-  </item>
-  <item>
-    <displayText>http://blogs.perl.org/users/mark_leighton_fisher/2012/01/stupid-lucene-tricks-exact-match-starts-with-ends-with.html</displayText>
-    <shortText>http://blogs.perl.org/users/mark_leighton_fisher/2012/01/stupid-lucene-tricks-exact-match-starts-with-ends-with.html</shortText>
   </item>
   <item>
     <displayText>http://use.perl.org/use.perl.org/_Mark+Leighton+Fisher/journal/40449.html)</displayText>
