@@ -72,7 +72,7 @@ author:
       url: "CV.html"
     - label: "Blog"
       icon: "fas fa-fw fa-link"
-      url: "/blog/"
+      url: "/posts/"
     - label: "Perl Blog"
       icon: "fas fa-fw fa-link"
       url: "http://blogs.perl.org/users/mark_leighton_fisher/"
