@@ -1,5 +1,42 @@
 <list>
   <item>
+    <displayText>No GitHub API authentication could be found. Some fields may be missing or have incorrect data</displayText>
+    <shortText>No GitHub API authentication could be found. Some fields may be missing or have incorrect data</shortText>
+  </item>
+  <item>
+    <displayText>https://tools.ietf.org/html/draft-ietf-webdav-enpreq-01</displayText>
+    <shortText>https://tools.ietf.org/html/draft-ietf-webdav-enpreq-01</shortText>
+  </item>
+  <item>
+    <displayText>http://news.perlfoundation.org/2011/06/2011q2-grant-proposal-port-pmt.html</displayText>
+    <shortText>http://news.perlfoundation.org/2011/06/2011q2-grant-proposal-port-pmt.html</shortText>
+  </item>
+  <item>
+    <displayText>2011Q2 Grant Proposal: Port pmtools to Perl 6 By Alberto SimÃµes</displayText>
+    <shortText>2011Q2 Grant Proposal: Port pmtools to Perl 6
+By Alberto SimÃµes</shortText>
+  </item>
+  <item>
+    <displayText>https://www.sciencedirect.com/science/article/abs/pii/S107158199690110X</displayText>
+    <shortText>https://www.sciencedirect.com/science/article/abs/pii/S107158199690110X</shortText>
+  </item>
+  <item>
+    <displayText>https://help.hubzero.org/members/7091</displayText>
+    <shortText>https://help.hubzero.org/members/7091</shortText>
+  </item>
+  <item>
+    <displayText>http://perlweekly.com/a/mark-leighton-fisher.html</displayText>
+    <shortText>http://perlweekly.com/a/mark-leighton-fisher.html</shortText>
+  </item>
+  <item>
+    <displayText>https://sites.google.com/site/fisherscreekconsulting/</displayText>
+    <shortText>https://sites.google.com/site/fisherscreekconsulting/</shortText>
+  </item>
+  <item>
+    <displayText>https://metacpan.org/pod/pmtools</displayText>
+    <shortText>https://metacpan.org/pod/pmtools</shortText>
+  </item>
+  <item>
     <displayText>http://blogs.perl.org/users/mark_leighton_fisher/2012/01/stupid-lucene-tricks-exact-match-starts-with-ends-with.html</displayText>
     <shortText>http://blogs.perl.org/users/mark_leighton_fisher/2012/01/stupid-lucene-tricks-exact-match-starts-with-ends-with.html</shortText>
   </item>

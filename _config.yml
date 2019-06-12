@@ -25,6 +25,7 @@ github_username: markleightonfisher
 minimal_mistakes_skin: contrast
 site.locale: en-US
 search: true
+github: [metadata]
 
 # Build settings
 markdown: kramdown
@@ -70,6 +71,9 @@ author:
     - label: "CV"
       icon: "fas fa-fw fa-link"
       url: "CV.html"
+    - label: "Perl Module Tools (pmtools)"
+      icon: "fas fa-fw fa-link"
+      url: "https://metacpan.org/pod/pmtools"
     - label: "Stupid Lucene Tricks"
       icon: "fas fa-fw fa-link"
       url: "/stupid-lucene-tricks/"
@@ -97,6 +101,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/MarkLFisher"
+    - label: "Some Other Links"
+      icon: "fas fa-fw fa-link"
+      url: "/some-other-links/"
 
 footer:
   links:
