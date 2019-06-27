@@ -1,5 +1,304 @@
 <list>
   <item>
+    <displayText>Eastmark2 2019-06-2720190627184407.zip</displayText>
+    <shortText>/home/mark/Downloads/Eastmark2 2019-06-2720190627184407.zip</shortText>
+  </item>
+  <item>
+    <displayText>The Lakes at Grassy Branch</displayText>
+    <shortText>The Lakes at Grassy Branch</shortText>
+  </item>
+  <item>
+    <displayText>http://127.0.0.1:4000</displayText>
+    <shortText>http://127.0.0.1:4000</shortText>
+  </item>
+  <item>
+    <displayText>https://markleightonfisher.github.io/some-other-links/</displayText>
+    <shortText>https://markleightonfisher.github.io/some-other-links/</shortText>
+  </item>
+  <item>
+    <displayText>https://twitter.com/MarkLFisher</displayText>
+    <shortText>https://twitter.com/MarkLFisher</shortText>
+  </item>
+  <item>
+    <displayText>https://www.linkedin.com/in/mark-leighton-fisher/</displayText>
+    <shortText>https://www.linkedin.com/in/mark-leighton-fisher/</shortText>
+  </item>
+  <item>
+    <displayText>https://stackoverflow.com/story/markleightonfisher</displayText>
+    <shortText>https://stackoverflow.com/story/markleightonfisher</shortText>
+  </item>
+  <item>
+    <displayText>https://github.com/pbmarklf</displayText>
+    <shortText>https://github.com/pbmarklf</shortText>
+  </item>
+  <item>
+    <displayText>https://github.com/markleightonfisher</displayText>
+    <shortText>https://github.com/markleightonfisher</shortText>
+  </item>
+  <item>
+    <displayText>https://metacpan.org/author/MLFISHER</displayText>
+    <shortText>https://metacpan.org/author/MLFISHER</shortText>
+  </item>
+  <item>
+    <displayText>http://blogs.perl.org/users/mark_leighton_fisher/</displayText>
+    <shortText>http://blogs.perl.org/users/mark_leighton_fisher/</shortText>
+  </item>
+  <item>
+    <displayText>https://markleightonfisher.github.io/stupid-lucene-tricks/</displayText>
+    <shortText>https://markleightonfisher.github.io/stupid-lucene-tricks/</shortText>
+  </item>
+  <item>
+    <displayText>https://metacpan.org/pod/pmtools</displayText>
+    <shortText>https://metacpan.org/pod/pmtools</shortText>
+  </item>
+  <item>
+    <displayText>&lt;!doctype html&gt; &lt;html lang=&quot;en&quot;&gt; &lt;head&gt; &lt;meta charset=&quot;utf-8&quot;&gt; &lt;title&gt;{{ page.title }}&lt;/title&gt; &lt;link rel=&quot;stylesheet&quot; href=&quot;/css/style.css&quot;&gt; &lt;/head&gt; &lt;body&gt; &lt;nav&gt; &lt;a href=&quot;/&quot;&gt;Home&lt;/a&gt; &lt;a href=&quot;/blog/&quot;&gt;Blog&lt;/a&gt; &lt;/nav&gt; &lt;h1&gt;{{ page.title }}&lt;/h1&gt; &lt;section&gt; {{ content }} &lt;/section&gt; &lt;footer&gt; &amp;copy; to me &lt;/footer&gt; &lt;/body&gt; &lt;/html&gt;</displayText>
+    <shortText>&lt;!doctype html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+  &lt;head&gt;
+    &lt;meta charset=&quot;utf-8&quot;&gt;
+    &lt;title&gt;{{ page.title }}&lt;/title&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;/css/style.css&quot;&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;nav&gt;
+      &lt;a href=&quot;/&quot;&gt;Home&lt;/a&gt;
+      &lt;a href=&quot;/blog/&quot;&gt;Blog&lt;/a&gt;
+    &lt;/nav&gt;
+    &lt;h1&gt;{{ page.title }}&lt;/h1&gt;
+    &lt;section&gt;
+      {{ content }}
+    &lt;/section&gt;
+    &lt;footer&gt;
+      &amp;copy; to me
+    &lt;/footer&gt;
+  &lt;/body&gt;
+&lt;/html&gt;</shortText>
+  </item>
+  <item>
+    <displayText>categories: [blog, travel] tags: [hot, summer]</displayText>
+    <shortText>categories: [blog, travel]
+tags: [hot, summer]</shortText>
+  </item>
+  <item>
+    <displayText>2019-06-10-roles-and-responsibilities-in-scrum</displayText>
+    <shortText>2019-06-10-roles-and-responsibilities-in-scrum</shortText>
+  </item>
+  <item>
+    <displayText>http://use.perl.org/~Mark%20Leighton%20Fisher/journal/15539</displayText>
+    <shortText>http://use.perl.org/~Mark%20Leighton%20Fisher/journal/15539</shortText>
+  </item>
+  <item>
+    <displayText>https://web.archive.org/web/20010301180019/http://training.perl.com/</displayText>
+    <shortText>https://web.archive.org/web/20010301180019/http://training.perl.com/</shortText>
+  </item>
+  <item>
+    <displayText>http://training.perl.com/</displayText>
+    <shortText>http://training.perl.com/</shortText>
+  </item>
+  <item>
+    <displayText>Tom Christiansen Perl Consultancy</displayText>
+    <shortText>Tom Christiansen Perl Consultancy</shortText>
+  </item>
+  <item>
+    <displayText>https://web.archive.org/web/20040206221508/http://www.law.cornell.edu/</displayText>
+    <shortText>https://web.archive.org/web/20040206221508/http://www.law.cornell.edu/</shortText>
+  </item>
+  <item>
+    <displayText>https://mailing-list-archive.cryptoanarchy.wiki/</displayText>
+    <shortText>https://mailing-list-archive.cryptoanarchy.wiki/</shortText>
+  </item>
+  <item>
+    <displayText>http://www.google.com/search?hl=en&amp;lr=&amp;ie=UTF-8&amp;oe=UTF-8&amp;q=%22cypherpunks+</displayText>
+    <shortText>http://www.google.com/search?hl=en&amp;lr=&amp;ie=UTF-8&amp;oe=UTF-8&amp;q=%22cypherpunks+</shortText>
+  </item>
+  <item>
+    <displayText>https://web.archive.org/web/20040302021859/http://archive.scripting.com/2003/05/29</displayText>
+    <shortText>https://web.archive.org/web/20040302021859/http://archive.scripting.com/2003/05/29</shortText>
+  </item>
+  <item>
+    <displayText>http://scriptingnews.userland.com/backIssues/2003/05/29</displayText>
+    <shortText>http://scriptingnews.userland.com/backIssues/2003/05/29</shortText>
+  </item>
+  <item>
+    <displayText>http://portal.acm.org/citation.cfm?id=256109.256127&amp;coll=portal&amp;dl=ACM</displayText>
+    <shortText>http://portal.acm.org/citation.cfm?id=256109.256127&amp;coll=portal&amp;dl=ACM</shortText>
+  </item>
+  <item>
+    <displayText>http://www.google.com/search?q=%22mark+leighton+fisher%22</displayText>
+    <shortText>http://www.google.com/search?q=%22mark+leighton+fisher%22</shortText>
+  </item>
+  <item>
+    <displayText>https://tools.ietf.org/html/rfc2291</displayText>
+    <shortText>https://tools.ietf.org/html/rfc2291</shortText>
+  </item>
+  <item>
+    <displayText>https://web.archive.org/web/20190204225955/https://www.bdsoft.com/about.html</displayText>
+    <shortText>https://web.archive.org/web/20190204225955/https://www.bdsoft.com/about.html</shortText>
+  </item>
+  <item>
+    <displayText>http://www.bdsoft.com/about.html</displayText>
+    <shortText>http://www.bdsoft.com/about.html</shortText>
+  </item>
+  <item>
+    <displayText>https://web.archive.org/web/20070307111717/http://www.mdbs.com/</displayText>
+    <shortText>https://web.archive.org/web/20070307111717/http://www.mdbs.com/</shortText>
+  </item>
+  <item>
+    <displayText>https://web.archive.org/web/20060810114356/http://www.mdbs.com/prod_tde.htm</displayText>
+    <shortText>https://web.archive.org/web/20060810114356/http://www.mdbs.com/prod_tde.htm</shortText>
+  </item>
+  <item>
+    <displayText>https://web.archive.org/web/20060822110257/http://www.mdbs.com/prod_guru.htm</displayText>
+    <shortText>https://web.archive.org/web/20060822110257/http://www.mdbs.com/prod_guru.htm</shortText>
+  </item>
+  <item>
+    <displayText>https://web.archive.org/web/20060820150826/http://www.mdbs.com/</displayText>
+    <shortText>https://web.archive.org/web/20060820150826/http://www.mdbs.com/</shortText>
+  </item>
+  <item>
+    <displayText>http://www.mdbs.com/html/other_products.html</displayText>
+    <shortText>http://www.mdbs.com/html/other_products.html</shortText>
+  </item>
+  <item>
+    <displayText>http://www.wikipedia.org/w/wiki.phtml?search=simulated+annealing&amp;go=Go</displayText>
+    <shortText>http://www.wikipedia.org/w/wiki.phtml?search=simulated+annealing&amp;go=Go</shortText>
+  </item>
+  <item>
+    <displayText>https://lists.cpunks.org/pipermail/cypherpunks/2013-September/000741.html</displayText>
+    <shortText>https://lists.cpunks.org/pipermail/cypherpunks/2013-September/000741.html</shortText>
+  </item>
+  <item>
+    <displayText>https://dropsafe.crypticide.com/alecm/software/crack/c50-faq.html</displayText>
+    <shortText>https://dropsafe.crypticide.com/alecm/software/crack/c50-faq.html</shortText>
+  </item>
+  <item>
+    <displayText>http://www.crypticide.org/users/alecm/security/c50-faq.html</displayText>
+    <shortText>http://www.crypticide.org/users/alecm/security/c50-faq.html</shortText>
+  </item>
+  <item>
+    <displayText>https://web.archive.org/web/20120724040004/http://www.aspseek.org/</displayText>
+    <shortText>https://web.archive.org/web/20120724040004/http://www.aspseek.org/</shortText>
+  </item>
+  <item>
+    <displayText>http://www.aspseek.org/</displayText>
+    <shortText>http://www.aspseek.org/</shortText>
+  </item>
+  <item>
+    <displayText>https://dl.acm.org/citation.cfm?id=256109.256127&amp;coll=portal&amp;dl=ACM</displayText>
+    <shortText>https://dl.acm.org/citation.cfm?id=256109.256127&amp;coll=portal&amp;dl=ACM</shortText>
+  </item>
+  <item>
+    <displayText>4,662.74</displayText>
+    <shortText>4,662.74</shortText>
+  </item>
+  <item>
+    <displayText>PURDUE UNIVERSIT5000006920</displayText>
+    <shortText>PURDUE UNIVERSIT5000006920</shortText>
+  </item>
+  <item>
+    <displayText>WI TEMP PAYROLL PAYROLL</displayText>
+    <shortText>WI TEMP PAYROLL PAYROLL</shortText>
+  </item>
+  <item>
+    <displayText>2,150.00</displayText>
+    <shortText>2,150.00</shortText>
+  </item>
+  <item>
+    <displayText>SSA TREAS 310 XXSOC SEC</displayText>
+    <shortText>SSA TREAS 310 XXSOC SEC</shortText>
+  </item>
+  <item>
+    <displayText>INDIANA PUBLIC RPN PMTS/AA</displayText>
+    <shortText>INDIANA PUBLIC RPN PMTS/AA</shortText>
+  </item>
+  <item>
+    <displayText>16151 Joliet Rd Westfield IN 46074-9354</displayText>
+    <shortText>16151 Joliet Rd
+Westfield IN 46074-9354</shortText>
+  </item>
+  <item>
+    <displayText>8616</displayText>
+    <shortText>8616</shortText>
+  </item>
+  <item>
+    <displayText>https://web.archive.org/web/20160309195503/http://indyprospector.com/</displayText>
+    <shortText>https://web.archive.org/web/20160309195503/http://indyprospector.com/</shortText>
+  </item>
+  <item>
+    <displayText>https://my.xfinity.com/goldpanner/</displayText>
+    <shortText>https://my.xfinity.com/goldpanner/</shortText>
+  </item>
+  <item>
+    <displayText>http://mywebpages.comcast.net/goldpanner/</displayText>
+    <shortText>http://mywebpages.comcast.net/goldpanner/</shortText>
+  </item>
+  <item>
+    <displayText>https://web.archive.org/web/20070808180301/http://www.isc.org/sources/devel/lang/trc.txt</displayText>
+    <shortText>https://web.archive.org/web/20070808180301/http://www.isc.org/sources/devel/lang/trc.txt</shortText>
+  </item>
+  <item>
+    <displayText>http://sources.isc.org/devel/lang/trc.txt</displayText>
+    <shortText>http://sources.isc.org/devel/lang/trc.txt</shortText>
+  </item>
+  <item>
+    <displayText>https://web.archive.org/web/20050209135939/http://nospum.net/perlblog/2003/06/05/</displayText>
+    <shortText>https://web.archive.org/web/20050209135939/http://nospum.net/perlblog/2003/06/05/</shortText>
+  </item>
+  <item>
+    <displayText>http://nospum.net/perlblog/2003/06/05/</displayText>
+    <shortText>http://nospum.net/perlblog/2003/06/05/</shortText>
+  </item>
+  <item>
+    <displayText>https://web.archive.org/web/20041129101316/http://www.infoworld.com/cgi-bin/displayStat.pl?/pageone/news/features/iw100.profile-7.htm</displayText>
+    <shortText>https://web.archive.org/web/20041129101316/http://www.infoworld.com/cgi-bin/displayStat.pl?/pageone/news/features/iw100.profile-7.htm</shortText>
+  </item>
+  <item>
+    <displayText>http://www.infoworld.com/cgi-bin/displayStat.pl?/pageone/news/features/iw100.profile-7.htm</displayText>
+    <shortText>http://www.infoworld.com/cgi-bin/displayStat.pl?/pageone/news/features/iw100.profile-7.htm</shortText>
+  </item>
+  <item>
+    <displayText>http://www.parrot.org/</displayText>
+    <shortText>http://www.parrot.org/</shortText>
+  </item>
+  <item>
+    <displayText>http://www.parrotcode.org/</displayText>
+    <shortText>http://www.parrotcode.org/</shortText>
+  </item>
+  <item>
+    <displayText>https://web.archive.org/web/20040206221508/http://www.law.cornell.edu/cello/cellofaq.html</displayText>
+    <shortText>https://web.archive.org/web/20040206221508/http://www.law.cornell.edu/cello/cellofaq.html</shortText>
+  </item>
+  <item>
+    <displayText>http://www.law.cornell.edu/cello/cellofaq.html</displayText>
+    <shortText>http://www.law.cornell.edu/cello/cellofaq.html</shortText>
+  </item>
+  <item>
+    <displayText>http://perlpowertools.com/</displayText>
+    <shortText>http://perlpowertools.com/</shortText>
+  </item>
+  <item>
+    <displayText>https://web.archive.org/web/20050308025556/http://andy.rz.uni-karlsruhe.de/~andy/Quotes.html</displayText>
+    <shortText>https://web.archive.org/web/20050308025556/http://andy.rz.uni-karlsruhe.de/~andy/Quotes.html</shortText>
+  </item>
+  <item>
+    <displayText>http://andy.rz.uni-karlsruhe.de/~andy/Quotes.html&apos; Name `&quot;Just as you\nshould not underestimate the bandwidth of a station wagon traveling 65 mph\nfilled with 8mm tapes, you should not overestimate the bandwi</displayText>
+    <shortText>http://andy.rz.uni-karlsruhe.de/~andy/Quotes.html&apos;
+Name       `&quot;Just as you\nshould not underestimate the bandwidth of a station wagon traveling 65 mph\nfilled with 8mm tapes, you should not overestimate the bandwi</shortText>
+  </item>
+  <item>
+    <displayText>https://web.archive.org/web/20171021003259/http://www.htdig.org/</displayText>
+    <shortText>https://web.archive.org/web/20171021003259/http://www.htdig.org/</shortText>
+  </item>
+  <item>
+    <displayText>http://www.htdig.org/</displayText>
+    <shortText>http://www.htdig.org/</shortText>
+  </item>
+  <item>
+    <displayText>https://web.archive.org/web/20040617222947/http://www.deepdata.com/index_flash.html</displayText>
+    <shortText>https://web.archive.org/web/20040617222947/http://www.deepdata.com/index_flash.html</shortText>
+  </item>
+  <item>
     <displayText>No GitHub API authentication could be found. Some fields may be missing or have incorrect data</displayText>
     <shortText>No GitHub API authentication could be found. Some fields may be missing or have incorrect data</shortText>
   </item>
@@ -31,10 +330,6 @@ By Alberto SimÃµes</shortText>
   <item>
     <displayText>https://sites.google.com/site/fisherscreekconsulting/</displayText>
     <shortText>https://sites.google.com/site/fisherscreekconsulting/</shortText>
-  </item>
-  <item>
-    <displayText>https://metacpan.org/pod/pmtools</displayText>
-    <shortText>https://metacpan.org/pod/pmtools</shortText>
   </item>
   <item>
     <displayText>http://blogs.perl.org/users/mark_leighton_fisher/2012/01/stupid-lucene-tricks-exact-match-starts-with-ends-with.html</displayText>
